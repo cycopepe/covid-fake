@@ -127,66 +127,6 @@
         "NewRecovered": 46,
         "TotalRecovered": 15839,
         "Date": "2020-06-09T22:15:46Z"
-      },
-      {
-        "Country": "Azerbaijan",
-        "CountryCode": "AZ",
-        "Slug": "azerbaijan",
-        "NewConfirmed": 323,
-        "TotalConfirmed": 7876,
-        "NewDeaths": 5,
-        "TotalDeaths": 93,
-        "NewRecovered": 228,
-        "TotalRecovered": 4377,
-        "Date": "2020-06-09T22:15:46Z"
-      },
-      {
-        "Country": "Bahamas",
-        "CountryCode": "BS",
-        "Slug": "bahamas",
-        "NewConfirmed": 0,
-        "TotalConfirmed": 103,
-        "NewDeaths": 0,
-        "TotalDeaths": 11,
-        "NewRecovered": 2,
-        "TotalRecovered": 64,
-        "Date": "2020-06-09T22:15:46Z"
-      },
-      {
-        "Country": "Bahrain",
-        "CountryCode": "BH",
-        "Slug": "bahrain",
-        "NewConfirmed": 654,
-        "TotalConfirmed": 15417,
-        "NewDeaths": 1,
-        "TotalDeaths": 27,
-        "NewRecovered": 858,
-        "TotalRecovered": 10326,
-        "Date": "2020-06-09T22:15:46Z"
-      },
-      {
-        "Country": "Bangladesh",
-        "CountryCode": "BD",
-        "Slug": "bangladesh",
-        "NewConfirmed": 2735,
-        "TotalConfirmed": 68504,
-        "NewDeaths": 42,
-        "TotalDeaths": 930,
-        "NewRecovered": 657,
-        "TotalRecovered": 14560,
-        "Date": "2020-06-09T22:15:46Z"
-      },
-      {
-        "Country": "Barbados",
-        "CountryCode": "BB",
-        "Slug": "barbados",
-        "NewConfirmed": 0,
-        "TotalConfirmed": 92,
-        "NewDeaths": 0,
-        "TotalDeaths": 7,
-        "NewRecovered": 0,
-        "TotalRecovered": 81,
-        "Date": "2020-06-09T22:15:46Z"
       }
     ],
     "Date": "2020-06-09T22:15:46Z"
