@@ -17,8 +17,7 @@
       "NewDeaths": 12,
       "TotalDeaths": 369,
       "NewRecovered": 296,
-      "TotalRecovered": 2171,
-      "Date": "2020-06-09T22:15:46Z"
+      "TotalRecovered": 2171      
     },
     {
       "Country": "Albania",
@@ -29,8 +28,7 @@
       "NewDeaths": 0,
       "TotalDeaths": 34,
       "NewRecovered": 7,
-      "TotalRecovered": 945,
-      "Date": "2020-06-09T22:15:46Z"
+      "TotalRecovered": 945      
     },
     {
       "Country": "Algeria",
@@ -41,10 +39,8 @@
       "NewDeaths": 8,
       "TotalDeaths": 715,
       "NewRecovered": 82,
-      "TotalRecovered": 6799,
-      "Date": "2020-06-09T22:15:46Z"
+      "TotalRecovered": 6799      
     }
-  ],
-  "Date": "2020-06-09T22:15:46Z"
+  ]
 }
   
